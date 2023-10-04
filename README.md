@@ -1,4 +1,4 @@
-### Howdy! I'm Taylor! 👋
+### Howdy, I'm Taylor! 👋
 
 Having devoted seven years of my life to the Air Force as a Munitions Systems Supervisor, I've always been ingrained with a sense of technical proficiency. However, an inherent curiosity and a relentless drive to constantly learn and challenge myself led me down a different path.
 
