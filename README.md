@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! I'm Taylor! 👋
 
 <!--
 **tquade2/tquade2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Taylor, a college graduate and Air Force veteran. I will be attending the Tech Elevator coding boot camp in Columbus this fall. I'm looking forward to becoming a full-stack developer and can't wait to add my new skills to my resume.
+Having devoted seven years of my life to the air force as a munitions systems supervisor, I've always been ingrained with a sense of technical proficiency. However, an inherent curiosity and a relentless drive to constantly learn and challenge myself led me down a different path.
+
+After my service, I pursued and earned a degree in GIS and city planning. It was during this academic journey that I delved into the realms of programming and urban informatics. The potential of leveraging digital systems to foster better social outcomes truly captivated me. A testament to this is my stint at the College of Social Work at Ohio State. Over a span of 7 months, I successfully automated a labor-intensive geocoding process using Python, streamlining the organization and management of GIS files.
+
+Looking ahead, my aspirations are clear. Armed with a blend of discipline, an analytical mindset, and adaptability, I am keen on harnessing software to address intricate city planning conundrums. My goal is to leave a lasting footprint in the urban spaces, making them more functional, accessible, and vibrant.
+
+I hope this works for you. If there are any other adjustments you'd like, please let me know!
