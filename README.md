@@ -1,5 +1,3 @@
 ### Howdy, I'm Taylor!
 
-After seven years in the Air Force, I earned a degree in GIS and city planning. It was during this academic journey that I delved into the realms of programming and urban informatics. The potential of leveraging digital systems to foster better transportation systems truly captivated me.
-
-Armed with a blend of technical discipline, adaptability, and an analytical mindset, I am keen on harnessing software to address intricate city planning conundrums. My goal is to leave a lasting footprint in the urban spaces, making them more functional, accessible, and vibrant.
+After seven years in the Air Force, I earned a degree in GIS and city planning. During this academic journey, I delved into the realms of programming. This led me to join the Tech Elevator coding bootcamp after working as a GIS Specialist for several months. I aim to combine my military discipline, GIS knowledge, and programming skills to become a junior software developer.
