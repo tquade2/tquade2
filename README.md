@@ -1,4 +1,4 @@
-### Howdy, I'm Taylor! 👋
+### Howdy, I'm Taylor!
 
 After seven years in the Air Force, I earned a degree in GIS and city planning. It was during this academic journey that I delved into the realms of programming and urban informatics. The potential of leveraging digital systems to foster better transportation systems truly captivated me.
 
