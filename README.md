@@ -1,3 +1,3 @@
 ### Hi, I'm Taylor!
 
-After seven years in the Air Force, I earned a degree in GIS and city planning. During this academic journey, I delved into the realms of programming. This led me to join the Tech Elevator coding bootcamp. I aim to combine my military discipline, GIS knowledge, and programming skills to become a proficient software developer.
+After serving in the Air Force for seven years, I transitioned to pursue a degree in GIS and city planning, where I uncovered my passion for programming. This newfound interest led me to enroll in the Tech Elevator coding bootcamp. I'm excited to merge my military discipline, GIS expertise, and programming skills to excel as a software engineer.
